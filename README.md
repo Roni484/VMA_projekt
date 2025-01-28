@@ -1,4 +1,4 @@
-# Projekt distribuovaných systémov s použiťím XAMP
+# Projekt distribuovaných systémov s použitím XAMP
 
 Poskytuje ukážku synchronizácie databázy medzi 3 užívateľmi s možnosťou pridávať, mazať, prehľadávať a synchronizovať tovar v databáze.
 Rozdelený na 3 uzly (3 rôzne zariadenia) - Prepojenie cez XAMP alebo inú službu.
